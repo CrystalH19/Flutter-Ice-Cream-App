@@ -1,6 +1,6 @@
-# sundae_app
+# Flutter Ice Cream App
 
-A new Flutter project.
+This project was created for Mobile Computing 2023 class. It was built in android studio using Flutter.
 
 ## Getting Started
 
